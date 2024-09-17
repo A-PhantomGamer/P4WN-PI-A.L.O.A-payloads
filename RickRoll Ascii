@@ -1,0 +1,8 @@
+layout('us');
+Press("GUI r");
+delay(500);
+type("cmd");
+press("ENTER");
+delay(500);
+type("curl ascii.live/can-you-hear-me");
+press("ENTER")
